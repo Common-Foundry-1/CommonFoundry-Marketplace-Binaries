@@ -40,4 +40,20 @@ No invite code? Press Enter at step 3. The window then shows a line starting
 the window open; it carries on once Tim has enabled you. The line holds no
 password or key.
 
+## Get your CMFD back
+
+In the app, open **Wallet**. Under **Collect refunds**, bring back what
+finished rentals returned. Then, under **Withdraw**, paste your own
+wallet's address (the `cmfd1…` form catches typos; with an older wallet
+that shows only the 64-character form, check every character), choose to
+send everything or to keep some, click **Review withdrawal**, check the
+address and amount, and click **Send**. Wait until the transaction is
+mined before renting or withdrawing again.
+
+## Update
+
+Already have the kit? Unzip the new one and double-click its **Start CMFD
+Renter**. Your wallet, rentals and settings stay, and **Open CMFD Renter**
+on your Desktop opens the new version from then on.
+
 `README-FIRST.txt` inside the kit has a few more tips.
