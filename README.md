@@ -38,6 +38,13 @@ If the window says the beta is full, try again in a day or two.
 
 ## Get your CMFD back
 
+The updated search checks each rig's current availability. Rented rigs and
+rigs whose availability cannot be confirmed are hidden. A fresh result also
+closes an old configuration panel for a rig that is no longer offered.
+Availability is a snapshot; booking checks ownership again. Hardware test
+badges remain separate from availability. The public catalog refreshes every
+10 seconds; the website refreshes its displayed catalog periodically.
+
 In the updated app, open **Wallet**. Confirmed rental returns are included
 in **Available** automatically, without a separate collection transaction.
 Under **Withdraw**, paste your own
