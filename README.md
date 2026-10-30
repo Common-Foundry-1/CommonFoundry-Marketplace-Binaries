@@ -38,13 +38,21 @@ If the window says the beta is full, try again in a day or two.
 
 ## Get your CMFD back
 
-In the app, open **Wallet**. Under **Collect refunds**, bring back what
-finished rentals returned. Then, under **Withdraw**, paste your own
+In the updated app, open **Wallet**. Confirmed rental returns are included
+in **Available** automatically, without a separate collection transaction.
+Under **Withdraw**, paste your own
 wallet's address (the `cmfd1…` form catches typos; with an older wallet
 that shows only the 64-character form, check every character), choose to
 send everything or to keep some, click **Review withdrawal**, check the
 address and amount, and click **Send**. Wait until the transaction is
 mined before renting or withdrawing again.
+
+**Returning** is an estimate while settlement or a timeout refund is pending;
+it is not spendable yet. Keep the payment agent running until rentals close.
+Older kits may still require **Collect refunds** before withdrawal.
+
+See [Returns, fees and compensation](REFUNDS.md) for cancellation before
+launch, failed starts, network fees, and reporting service problems.
 
 ## Update
 
